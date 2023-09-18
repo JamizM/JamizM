@@ -1,4 +1,4 @@
-Hi, My name Is Jão Antonnio
+Hi, My name Is João Antonnio
 - You can call me **Jamez** 👍
 - 🌱 I’m currently learning HTML, CSS and JavaScript at [CEUN-IMT](https://maua.br/vestibular?utm_source=google&utm_medium=cpc&utm_campaign=vestibular-2024&utm_content=s_institucional&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgrYyhg6svEy5HfZYSRUYU6FN05xs9P-QGLP3VZPLzCu0J95-PqcA2hoCmRIQAvD_BwE)
 <div display="inline">
