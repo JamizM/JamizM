@@ -1,4 +1,5 @@
-Hi, My name Is João Antonnio
+<h1 align="center">Hi, My name Is João Antonnio</h1>
+  
 - You can call me **Jamez** 👍
 - 🌱 I’m currently learning HTML, CSS and JavaScript at [CEUN-IMT](https://maua.br/vestibular?utm_source=google&utm_medium=cpc&utm_campaign=vestibular-2024&utm_content=s_institucional&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgrYyhg6svEy5HfZYSRUYU6FN05xs9P-QGLP3VZPLzCu0J95-PqcA2hoCmRIQAvD_BwE)
 - Technologies I use
@@ -14,7 +15,6 @@ Hi, My name Is João Antonnio
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
-
 -  📫 You can reach me on:
 <div>
   <a href="https://discord.com/channels/@.jamiz"> 
@@ -29,10 +29,10 @@ Hi, My name Is João Antonnio
 </div>
 
 <div display=""block>
-  <img src="https://github-readme-stats.vercel.app/api?username=JamizM&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamizM&theme=dark" />
 </div>
 <div>
-  <img src="https://streak-stats.demolab.com/?user=JamizM&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=JamizM&theme=dark" />
 </div>
 
-<!--(https://github.com/JamizM/blob/output/github-contribution-grid-snake.svg)-->
+
