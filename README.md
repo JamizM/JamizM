@@ -28,6 +28,8 @@
   </a>
 </div>
 
+![Snake animation](JamizM)
+
 <div display=""block>
   <img src="https://github-readme-stats.vercel.app/api?username=JamizM&theme=dark" />
 </div>
