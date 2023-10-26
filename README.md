@@ -27,9 +27,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="InstagramJamiz"/>
   </a>
 </div>
-
-![Snake animation](JamizM)
-
 <div display=""block>
   <img src="https://github-readme-stats.vercel.app/api?username=JamizM&theme=dark" />
 </div>
