@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name Is João Antonnio <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae8/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae8/512.gif" alt="🫨" width="32" height="32"> </picture></h1>
  
 - You can call me **Jamez** 👍 
-- 🌱 I’m currently learning HTML, CSS and JavaScript at [CEUN-IMT](https://maua.br/vestibular?utm_source=google&utm_medium=cpc&utm_campaign=vestibular-2024&utm_content=s_institucional&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgrYyhg6svEy5HfZYSRUYU6FN05xs9P-QGLP3VZPLzCu0J95-PqcA2hoCmRIQAvD_BwE)
+- 🌱 I’m currently learning Java, Python and SQL at [CEUN-IMT](https://maua.br/vestibular?utm_source=google&utm_medium=cpc&utm_campaign=vestibular-2024&utm_content=s_institucional&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgrYyhg6svEy5HfZYSRUYU6FN05xs9P-QGLP3VZPLzCu0J95-PqcA2hoCmRIQAvD_BwE)
 - Technologies I use
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
