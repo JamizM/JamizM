@@ -35,8 +35,9 @@
 <h2>GitHub Stats😁</h2>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JamizM&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamizM&show_icons=true&theme=dark" />
 </div>
+
 <div>
   <img src="https://streak-stats.demolab.com/?user=JamizM&theme=dark" />
 </div>
