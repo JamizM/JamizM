@@ -5,6 +5,7 @@
 - Technologies I use
 <div display="inline">
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,11 +34,12 @@
 </div>
 
 <h2>GitHub Stats😁</h2>
-
+<div>
+  <img src="https://streak-stats.demolab.com/?user=JamizM&theme=dark" />
+</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JamizM&show_icons=true&theme=dark" />
 </div>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamizM&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
