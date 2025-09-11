@@ -7,8 +7,8 @@
 
 <h2>📱 Socials: <h2 />
 <div>
-  <a href="www.linkedin.com/in/joao-martinez-br-cic"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" width="80">
+  <a> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoao-martinez-br-cic" width="80">
   </a>
   <a href="https://discord.com/channels/@.jamiz"> 
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
