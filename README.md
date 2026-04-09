@@ -3,7 +3,7 @@
 - You can call me **Jamiz** 👍 
 - 📓 Currently studying computer science at the [IMT](https://maua.br/vestibular?utm_source=google&utm_medium=cpc&utm_campaign=vestibular-2024&utm_content=s_institucional&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgrYyhg6svEy5HfZYSRUYU6FN05xs9P-QGLP3VZPLzCu0J95-PqcA2hoCmRIQAvD_BwE)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,js,gcp,aws,postgres,maven,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,js,go,gcp,aws,postgres,maven,gitlab)](https://skillicons.dev)
 
 <h2>📱 Socials: <h2 />
 <div>
@@ -18,13 +18,7 @@
   </a>
 </div>
 
-<h2>GitHub Stats😁</h2>
-<div>
-  <img src="https://streak-stats.demolab.com/?user=JamizM&theme=dark" />
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JamizM&show_icons=true&theme=dark" />
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamizM&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<h2>GitHub Stats 😁</h2>
+<div align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=JamizM&theme=tokyonight&hide_border=true" />
 </div>
